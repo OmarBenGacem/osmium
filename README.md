@@ -1,3 +1,7 @@
+# Credits
+This is a version of the Osmium operating system written by moratorium08
+
+https://github.com/moratorium08/osmium/tree/master
 # osmium
 
 Operating System written in Rust on RISC V(32im)
