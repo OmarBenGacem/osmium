@@ -11,7 +11,7 @@ setup:
 
 run:
 	./scripts/run.sh
-
+# this is a test
 # build by using Docker
 d_build:
 	docker run -w $(PWD) -v $(PWD):$(PWD) -it ${BUILD_CONTAINER} make build
